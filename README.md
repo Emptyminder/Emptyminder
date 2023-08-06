@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Emptyminder :
-- 👀 I’m interested in Programming :
-- 🌱 I’m currently learning C,Python & Front_end_development :
-- 💞️ I’m looking to collaborate on Web_development :
+- 👋 Hi, I’m @Emptyminder  :
+- 👀 I’m interested in Programming and Penetration testing :
+- 🌱 I’m currently learning Java, Python, Front_end_development & Linux:
+- 💞️ I’m looking to collaborate on Web_development & Cybersecurity:
 - 📫 How to reach me 🤫....
 
 <!---

@@ -1,16 +1,16 @@
-<h1 align="left">Welcome to my Github page!</h1>
+<h1 align="left" style="color:white">Welcome to my Github page!</h1>
 
 ###
 
-<h3 align="left">Hi! I'm Deepanraj👋</h3>
+<h3 align="left" style="color:white">Hi! I'm Deepanraj👋</h3>
 
 ###
 
-<h2 align="center">I'm interested in Networking, Cyber security and Developer also.</h2>
+<h2 align="center" style="color:white">I'm interested in Networking, Cyber security and Developer also.</h2>
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="left" style="color:white">About me</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">My Knowledge</h3>
+<h3 align="left" style="color:white">My Knowledge</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h4 align="left">Feel free to reach out if you'd like to connect or collaborate!</h4>
+<h4 align="left" style="color:white">Feel free to reach out if you'd like to connect or collaborate!</h4>
 
 ###
 

@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center" style="color:white">I'm interested in Networking, Cyber security and Developer also.</h2>
+<h2 align="center" style="color:white">I'm interested in Networking, Cyber security and Development also.</h2>
 
 ###
 
